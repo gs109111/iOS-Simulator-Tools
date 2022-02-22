@@ -67,7 +67,7 @@ Some Features Of The iOS Simulator Might Be Broken (During iOS 10.3.1 or iOS 9.3
 3. Select the directory of the backup
 4. In the Application, go the System Files > Home Domain > Library
 5. Copy / Extract All The Folders and Files in this directory to anywhere on your mac
-6. Head over to /Users/gureetsidhu/Library/Developer/CoreSimulator/Devices 
+6. Head over to /Library/Developer/CoreSimulator/Devices 
 7. Use the DeviceSet.plist file to find out what device UDID matches up with what device you need
 8. Open the Correct folder for the device
 9. Open Data > Library
