@@ -1,5 +1,5 @@
 
-# Restore Simulator To "Real" iPhone Backup v1
+# Restore Simulator To "Real" iPhone Backup v1.0
 1. Create a Backup of the iPhone using finder or itunes
 2. Download iBackupBot to extract the backup 
 3. Select the directory of the backup
