@@ -60,6 +60,7 @@ Remove iOS 9.3.1:
 
 Some Features Of The iOS Simulator Might Be Broken (During iOS 10.3.1 or iOS 9.3.1) , But the OS should work fine
 
+============================================================================================================================================================
 
 # Restore Simulator To "Real" iPhone Backup v1
 1. Create a Backup of the iPhone using finder or itunes
