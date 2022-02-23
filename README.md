@@ -72,7 +72,7 @@ Some Features Of The iOS Simulator Might Be Broken (During iOS 10.3.1 or iOS 9.3
 8. Open the Correct folder for the device
 9. Open Data > Library
 10. Backup all the content of the Library folder to a diffrent directory on your mac (For future removal)
-11. After backing up all the content (if required) remove all the content in this directory
+11. After backing up all the content remove all the content in this directory
 12. Copy the contents of the backup you extracted earlier to this directory (Library)
 13. Start up the simulator
 14. Your iCloud Account will be logged in, the wallpaper will be the one from the device and some other features will be the same. 
