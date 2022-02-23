@@ -1,4 +1,4 @@
-# iOS-Simulator-Dualboot Writeup v1
+# iOS-Simulator-Dualboot Writeup v1.0
 
 
 No Patches Required !!!
