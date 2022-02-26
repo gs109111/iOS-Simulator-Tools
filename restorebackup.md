@@ -1,3 +1,4 @@
+<a href="/">Home</a>
 
 # Restore Simulator To "Real" iPhone Backup v1.0
 1. Create a Backup of the iPhone using finder or itunes
