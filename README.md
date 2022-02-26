@@ -2,10 +2,10 @@
 Dev Tools / Utilities for the iOS Simulator, such as Dual Booting iOS Simulators & Restoring iOS Simulator to a "real" iPhone Backup
 
 
-Dualboot Simulators: https://github.com/gs109111/iOS-Simulator-Tools/blob/main/dualbootsimulator.md
+Dualboot Simulators: https://gs109111.github.io/iOS-Simulator-Tools/dualbootsimulator/
 
-Restore "Real" Device Backup To iOS Simulator: https://github.com/gs109111/iOS-Simulator-Tools/blob/main/restorebackup.md
-
+Restore "Real" Device Backup To iOS Simulator:  https://gs109111.github.io/iOS-Simulator-Tools/restorebackup/
+/
 # Credits:
 - Apple
 
