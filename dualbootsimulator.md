@@ -1,6 +1,6 @@
 # iOS-Simulator-Dualboot Writeup v1.0
 
-<a href="/">Home</a>
+<a href="https://gs109111.github.io/iOS-Simulator-Tools/">Home</a>
 
 No Patches Required !!!
 
