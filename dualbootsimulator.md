@@ -1,5 +1,6 @@
 # iOS-Simulator-Dualboot Writeup v1.0
 
+<a href="/">Home</a>
 
 No Patches Required !!!
 
